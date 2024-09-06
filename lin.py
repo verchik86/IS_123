@@ -1,9 +1,9 @@
 #1
-#b1 = int(input('b1 = '))
-#b2 = int(input('b2 = '))
-#h = int(input('h = '))
+#b1 = int(input('Введите 1 основание = '))
+#b2 = int(input('Введите 2 основание = '))
+#h = int(input('Введите высоту = '))
 #S = ((b1 + b2) * h)/2
-#print('S = ', S)
+#print('Площадь = ', S)
 
 #2
 #a = input('введите слово ')
@@ -21,4 +21,4 @@
 #odin = int(x%10)
 #S = int(sto+desyat+odin)
 #koren = sqrt(S)
-#print('S = ', S
+#print('Сумма цифр числа = ', S, '\nКорень суммы цифр числа = ', koren)
