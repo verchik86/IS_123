@@ -1,0 +1,170 @@
+#blueblock {
+    width: 200px;
+    height: 200px;
+	background-color: blue;
+}
+#greenblock {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(58, 112, 33);
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+#bluesquare {
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+    width: 250px;
+    height: 200px;
+}
+#redsquare {
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+	width: 270px;
+	height: 200px;
+}
+#yellowsquere {
+	border-width: 3px;
+	border-style: dashed;
+	border-color: rgb(255, 188, 3);
+	width: 300px;
+	height: 200px;
+}
+#blacksquere {
+	border-width: 4px;
+	border-style: ridge;
+	border-color: black;
+	width: 300px;
+	height: 100px;
+}
+  #secondblacksquare {
+    border-width: 10px;
+	border-style: double;
+	border-color: blue;
+	width: 325px;
+	height: 200px;
+  }
+#secondredsquare {
+    border: 1px solid red;
+	width: 300px;
+	height: 200px;
+}
+
+#secondbluesquare {
+    border: 1px dotted blue;
+    width: 300px;
+    height: 200px;
+}
+#greensquare {
+    border: 4px dashed green;
+    width: 300px;
+    height: 200px;
+}
+#secondyellowsquare {
+    border: 7px double rgb(233, 184, 22);
+    width: 300px;
+    height: 200px;
+} 
+ #randomsquare {
+    width: 300px;
+	height: 200px;
+	border-left: 4px solid yellow;
+	border-right: 4px solid green;
+    border-top: 4px solid blue;
+    border-bottom: 4px solid red;
+ }
+ #secondrandomsquare {
+    width: 300px;
+	height: 200px;
+	border-left: 4px solid red;
+	border-right: 4px dotted green;
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+ }
+#greensquare {
+    width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	border-radius: 15px;
+}
+ 
+#greenfon {
+    border-radius: 20px;
+	width: 200px;
+	height: 200px;
+	background-color: #3e9249;
+}
+
+ #greenkrygokvadrat {
+    width: 300px;
+	height: 300px;
+	border: 1px solid green;
+	border-radius: 15px 60px 70px 90px;
+ }
+   #secondgreenkrygokvadrat {
+    width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 40px; 
+  }
+   #thirdgreenkrygokvadrat {
+    width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 20px 30px;
+   }
+    #secondredkrug {
+        width: 100px;
+        height: 100px;
+        border: 1px solid GREEN;
+        border-radius: 50%;
+    }
+    #PHOTO {
+        background-image: url(/img/bg.png);
+    
+        width: 1920px;
+        height: 1080px;   
+    }
+    #PHOTOTWO {
+        background-image: url(../img/bg.png);
+        width: 2500px;
+        height: 100px;   
+    }
+
+    #PHOTOONE {
+        background-image: url(/img/bg.png);
+    
+        width: 100px;
+        height: 1500px;   
+    }
+
+ ul {
+	list-style-type: square;
+} 
+.ul1 {
+	list-style-type: circle;
+}
+
+.ul2 {
+list-style-type: disc;
+}
+.ul3 {
+    list-style-type: none;
+}
+ol {
+    list-style-type: lower-roman;
+}
+.uper {
+    list-style-type: upper-roman;
+}
+.uper1 {
+    list-style-type: lower-alpha;
+}
+.uper2 {
+    list-style-type: upper-alpha;
+}
+.uper3 {
+    list-style-type: lower-greek;
+}
